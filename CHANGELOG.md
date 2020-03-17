@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/googleapis/java-os-login/compare/v1.0.0...v1.0.1) (2020-03-17)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-core-bom to v1.93.1 ([#86](https://www.github.com/googleapis/java-os-login/issues/86)) ([7ff38ce](https://www.github.com/googleapis/java-os-login/commit/7ff38ce33fb67adcc4416d192bb608404c8ba738))
+
 ## [1.0.0](https://www.github.com/googleapis/java-os-login/compare/v0.118.1...v1.0.0) (2020-02-28)
 
 
